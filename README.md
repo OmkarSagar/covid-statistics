@@ -4,19 +4,19 @@ The following document looks at analyzing the US sentiment on how president Joe 
 
 __Data Sources:__
 
-covid_approval_polls_adjusted.csv
-covid_approval_toplines.csv
-covid_concern_toplines.csv.
++ covid_approval_polls_adjusted.csv
++ covid_approval_toplines.csv
++ covid_concern_toplines.csv.
 
 __Below is a list of variables that were of importance:__
 
-subject - the president at the time (Trump/Biden).
-modeldate - the date that FiveThirtyEight created their weighted average of approvals. A full continuous range of dates from the beginning of the pandemic to June 2022.
-pollster - the entity that conducted the poll.
-startdate - the start date of the poll conducted.
-enddate - the end date of the poll conducted.
-approve_adjusted - a weighted approval rating (out of 100).
-disappove_adjusted - a weighted disapproval rating (out of 100).
++ subject - the president at the time (Trump/Biden).
++ modeldate - the date that FiveThirtyEight created their weighted average of approvals. A full continuous range of dates from the beginning of the pandemic to June 2022.
++ pollster - the entity that conducted the poll.
++ startdate - the start date of the poll conducted.
++ enddate - the end date of the poll conducted.
++ approve_adjusted - a weighted approval rating (out of 100).
++ disappove_adjusted - a weighted disapproval rating (out of 100).
 
 __Link to analysis webpage:__
 
